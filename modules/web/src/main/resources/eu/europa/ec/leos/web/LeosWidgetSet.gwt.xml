@@ -32,4 +32,6 @@
      information and instructions.
     -->
     <!-- <set-configuration-property name="devModeRedirectEnabled" value="true" /> -->
+
+    <inherits name="org.vaadin.cssinject.Cssinject_addonWidgetset" />
 </module>
